@@ -1,0 +1,4 @@
+install pandas
+install pymsql
+install sqlalchemy
+install psycopg2
